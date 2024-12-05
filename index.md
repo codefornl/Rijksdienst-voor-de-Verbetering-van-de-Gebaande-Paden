@@ -1,10 +1,7 @@
 ---
-title: Rijksdienst voor Verbetering van Gebaande Paden
+title: Instructies
 layout: default
 ---
-Bestuurlijk rollenspel voor gesprekken over waardenspanningen en dilemma’s op basis van casus van een fictieve overheidsorganisatie
-
-# Instructies
 Welkom! Wij zijn hier vandaag bij elkaar bij de RVGP, de Rijksdienst voor de Verbetering van de Gebaande Paden.
 
 De RVGP kennen jullie natuurlijk allemaal, want de RVGP raakt alle Nederlanders. Het meest bekend is de RVGP van de [TegelTax, de Verhardingsvergunningen en de erkende GebaandePadencontroleurs]({{ "/pages/tegeltax" | relative_url }}). In de instructie vinden jullie meer achtergrondinformatie over deze diensten en producten.

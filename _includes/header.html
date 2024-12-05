@@ -1,3 +1,6 @@
-{% if page.url != "/" %}
-    <a href="{{ "/" | relative_url }}">Home</a>
-{% endif %}
+<header>
+    <div class="container">
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </div>
+</header>

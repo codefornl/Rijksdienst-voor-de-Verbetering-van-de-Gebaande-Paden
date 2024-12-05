@@ -1,0 +1,3 @@
+header, nav, main, footer { padding: 1em }
+.container { max-width: 40em; }
+header { background: #333; color: white; text-align: center; }
