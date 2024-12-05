@@ -1,0 +1,14 @@
+title: Rijksdienst voor Verbetering van Gebaande Paden
+description: Bestuurlijk rollenspel voor gesprekken over waardenspanningen en dilemma’s op basis van casus van een fictieve overheidsorganisatie
+
+collections:
+  casus:
+    output: true
+    permalink: /casus/:name/
+
+defaults:
+  - scope:
+      type: casus
+    values:
+      layout: casus
+      collection: casus

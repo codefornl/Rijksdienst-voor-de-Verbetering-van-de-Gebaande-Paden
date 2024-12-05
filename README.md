@@ -1,5 +1,5 @@
 # Rijksdienst voor de Verbetering van de Gebaande Paden
-Methodiek voor gesprekken over waardenspanningen en dilemma’s op basis van cases van een fictieve overheidsorganisatie
+Bestuurlijk rollenspel voor gesprekken over waardenspanningen en dilemma’s op basis van casus van een fictieve overheidsorganisatie
 
 ## Inleiding
 In gesprek gaan over waardenspanningen en dilemma’s is niet eenvoudig als je hiervoor bestaande voorbeelden/organisaties gebruikt. Een fictieve organisatie kan dan behulpzaam zijn.
