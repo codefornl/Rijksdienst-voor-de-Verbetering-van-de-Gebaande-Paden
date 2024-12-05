@@ -15,5 +15,5 @@ Elke deelnemer krijgt een rol met een zorg/dilemma om in gesprek te brengen.
 ## Casus
 
 {% for casus in site.casus %}
-- [{{ casus.title }}]({{ casus.url }})
+- [{{ casus.title }}]({{ casus.url | relative_url }})
 {% endfor %}
