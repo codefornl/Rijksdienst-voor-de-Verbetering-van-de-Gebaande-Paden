@@ -1,0 +1,3 @@
+{% for casus in site.casus %}
+[{{ casus.title }}]({{ casus.url | relative_url }})
+{% endfor %}

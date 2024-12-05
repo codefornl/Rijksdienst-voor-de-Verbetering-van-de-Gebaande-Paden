@@ -1,6 +1,6 @@
 ---
 title: TegelTax
-layout: default
+layout: page
 ---
 De RVGP int TegelTax bij elke Nederlander ouder dan 3. Dat is de leeftijd waarop verwacht mag worden dat een kind kan lopen en daarmee gebruikt maakt van stoepen en andere verharding. 
 

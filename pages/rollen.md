@@ -1,6 +1,6 @@
 ---
 title: Rollen
-layout: default
+layout: page
 ---
 ## Bestuurder bij de RVGP
 Je zit met je team aan tafel en jullie voeren een gesprek over het mogelijk inzetten van een chatbot.

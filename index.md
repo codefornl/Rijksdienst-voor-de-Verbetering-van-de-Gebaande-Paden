@@ -1,6 +1,6 @@
 ---
 title: Welkom bij de RVGP
-layout: default
+layout: page
 ---
 Welkom! Wij zijn hier vandaag bij elkaar bij de RVGP, de Rijksdienst voor de Verbetering van de Gebaande Paden.
 
@@ -23,6 +23,4 @@ Daarna bespreken we het plenair.
 Bewustwording
 
 ## Casus
-{% for casus in site.casus %}
-[{{ casus.title }}]({{ casus.url | relative_url }})
-{% endfor %}
+{% include casus.html %}

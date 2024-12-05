@@ -1,7 +1,6 @@
 <nav>
     <div class="container p-3">
-        {% if page.url != "/" %}
-        <a href="{{ "/" | relative_url }}">Hoofdpagina</a>
-        {% endif %}
+        <p><a style="{% if page.url == "/" %}visibility: hidden{% endif %}" href="{{ "/" | relative_url }}">Terug naar hoofdpagina</a></p>
+        <p><a href="{{ "/pages/menu" | relative_url }}">Menu</a></p>
     </div>
 </nav>
