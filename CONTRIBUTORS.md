@@ -1,4 +1,3 @@
 # CONTRIBUTORS
-
-Haitske van de Linde: idee, ontwerp
-Johan Groenen: code base, website
+- Haitske van de Linde: idee, ontwerp
+- Johan Groenen: code base, website
